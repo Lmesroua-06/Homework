@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    color: red;
+}
+
+h3 {
+    color: aquamarine;
+    margin-left: 2em;
+}
+
+img {
+    margin: 2em;
+    border-style: solid;
+    border-width: 10px;
+    border-color: black;
+    border-radius: 50px;
+}
+
+#exp{
+    margin-left: 2em;
+}
