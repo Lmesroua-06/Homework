@@ -3,7 +3,7 @@ h1 {
     color: red;
 }
 
-h3 {
+#profile {
     color: aquamarine;
     margin-left: 2em;
 }
@@ -18,4 +18,33 @@ img {
 
 #exp{
     margin-left: 2em;
+}
+
+#tlt{
+    color:red;
+
+}
+
+* {
+    box-sizing: border-box;
+}
+.column{
+    float:left;
+    padding:10px;
+    width:30%;
+
+}
+
+
+.row{
+    display: block;
+
+}
+
+#nav{
+    margin-top: 400px;
+    background-color:aquamarine;
+    height: 30px;
+    
+
 }
